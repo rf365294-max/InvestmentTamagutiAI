@@ -1,0 +1,2 @@
+# InvestmentTamagutiAI
+Aplicativo Brawser sentinela
